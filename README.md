@@ -1,4 +1,4 @@
-<h1>Hello, I'm Mary! Nice meeting you! <br/><a href="https://github.com/SemerdjianMary">I am a Programmer</a> </h1>
+<h1>Hello, I'm Mary! Nice meeting you! <br/><a href="https://github.com/SemerdjianMary">I am a Programmer and I love Historcal Musical Instruments</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
