@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Advanced Software Engineering</b>
-  - [Group Project Data Science & Algorithms coded in Python](https://github.com/sliu62/Spam-Identifier)
+  - [Group Project Spam-Identifier](https://github.com/sliu62/Spam-Identifier)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
