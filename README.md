@@ -1,4 +1,4 @@
-<h1>Hello, I'm Mary! Nice meeting you! <br/><a href="https://github.com/SemerdjianMary">I am a Programmer</a>, <a href="https://www.linkedin.com/in/SemerdjianMary/">I have IT, Cybersecurity, Machine Learning, Data Science, DataBase</a></h1>
+<h1>Hello, I'm Mary! Nice meeting you! <br/><a href="https://github.com/SemerdjianMary">I am a Programmer</a>, <a href="https://www.linkedin.com/in/SemerdjianMary/">I have experience in IT, Cybersecurity, Machine Learning, Data Science, DataBase</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
