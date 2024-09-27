@@ -13,7 +13,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
--  [<img align="left" alt="MarySemerdjian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
+-  [<img align="left" alt="MarySemerdjian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [linkedin]: https://linkedin.com/in/mary-semerdjian  
 - 🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, and DataBase.
 - 💬 Ask me about anything?
