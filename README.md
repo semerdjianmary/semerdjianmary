@@ -11,12 +11,15 @@
 
 - [Machine Learning](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
+<!--
 <h2> 🤳 Connect with me:</h2>
-
+<!--
+🤳 Connect with me on LinkedIn [linkedin]: https://linkedin.com/in/mary-semerdjian
 [<img align="left" alt="MarySemerdjian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<!--
 [linkedin]: https://linkedin.com/in/mary-semerdjian
- 
+ -->
 <!--
 **SemerdjianMary/SemerdjianMary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
