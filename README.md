@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Advanced Software Engineering</b>
-  - [Group Project Spam-Identifier](https://github.com/sliu62/Spam-Identifier)
+- <b>Advanced Software Engineering Project</b>
+  - [Spam-Identifier -- that identifies if an email or text message is a SPAM](https://github.com/sliu62/Spam-Identifier)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
