@@ -1,4 +1,4 @@
-<h1>Hello, I'm Mary! Nice meeting you! <br/><a href="https://github.com/SemerdjianMary">Programmer</a>, <a href="https://www.linkedin.com/in/SemerdjianMary/">IT, Cybersecurity, Machine Learning, Data Science</a></h1>
+<h1>Hello, I'm Mary! Nice meeting you! <br/><a href="https://github.com/SemerdjianMary">Programmer</a>, <a href="https://www.linkedin.com/in/SemerdjianMary/">IT, Cybersecurity, Machine Learning, Data Science, DataBase</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
