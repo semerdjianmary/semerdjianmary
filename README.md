@@ -14,9 +14,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- 🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, and DataBase.
+- 🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, and DataBase.
 - 💬 Ask me about anything?
-- ⚡ Fun fact: I love to explore new places!
+- ⚡ Fun fact: I love to explore new places, lets travel!
 
 - [<img align="left" alt="MarySemerdjian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
