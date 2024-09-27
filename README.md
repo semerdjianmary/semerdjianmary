@@ -17,8 +17,8 @@
 - 💬 Ask me about anything?
 - ⚡ Fun fact: I love to explore new places!
   
--  [<img align="left" alt="MarySemerdjian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [linkedin]: https://linkedin.com/in/mary-semerdjian  
+- [<img align="left" alt="MarySemerdjian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://linkedin.com/in/mary-semerdjian  
 
 <!--
 **SemerdjianMary/SemerdjianMary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
