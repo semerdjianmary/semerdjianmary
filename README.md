@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mary! Nice meeting you! <br/><a href="https://github.com/SemerdjianMary">Programmer</a>, <a href="https://www.linkedin.com/in/SemerdjianMary/">IT, Cybersecurity, Machine Learning, Data Science</a></h1>
+<h1>Hello, I'm Mary! Nice meeting you! I have an Associate of Science, Bachelor of Science, and Master of Science in Computer Science. <br/><a href="https://github.com/SemerdjianMary">Programmer</a>, <a href="https://www.linkedin.com/in/SemerdjianMary/">IT, Cybersecurity, Machine Learning, Data Science</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
