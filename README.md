@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, and DataBase.
 - 💬 Ask me about anything?
-- ⚡ Fun fact: I love to explore new places, lets travel!
+- ⚡ Fun fact: I love computers!
 
 - [<img align="left" alt="MarySemerdjian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
