@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Master Thesis](https://semerdjianmary.github.io/portfolio/portfolio-4/)
-- [Spam-Identifier](https://github.com/sliu62/Spam-Identifier)
+- [Spam Identifier](https://github.com/sliu62/Spam-Identifier)
 - [Histopathologic Cancer Detection](https://semerdjianmary.github.io/portfolio/portfolio-2/)
 
 
