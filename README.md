@@ -1,6 +1,7 @@
 <h1>Hello, I'm Mary! Nice meeting you! <br/><a href="https://github.com/SemerdjianMary">I am a Programmer</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
 - [Master Thesis](https://semerdjianmary.github.io/portfolio/portfolio-4/)
 - [Spam-Identifier](https://github.com/sliu62/Spam-Identifier)
 - [Histopathologic Cancer Detection](https://semerdjianmary.github.io/portfolio/portfolio-2/)
