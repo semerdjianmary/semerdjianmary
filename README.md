@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Spam-Identifier identifies if an email or text message is a SPAM](https://github.com/sliu62/Spam-Identifier)
+- [Spam-Identifier](https://github.com/sliu62/Spam-Identifier)
 
 
 
