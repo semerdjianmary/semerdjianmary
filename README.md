@@ -14,7 +14,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- 🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, DataBase, Analyst, and just about any job. 
+- 🔭 I’m currently looking for jobs in IT, Cybersecurity, Data Science, Machine Learning, Medical Field, DataBase, Analyst, and just about any job.
+- 👯 I’m looking to collaborate on research, hypothesis, testing - training, and experimentations
 - 💬 Ask me about anything?
 - ⚡ Fun fact: I love computers!
 
